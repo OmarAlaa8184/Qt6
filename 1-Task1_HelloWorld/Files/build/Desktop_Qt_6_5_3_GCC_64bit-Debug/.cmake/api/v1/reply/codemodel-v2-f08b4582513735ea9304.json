@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f1d7a228682cb49f86c0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "mero",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-bc03b769cddbf1053845.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-1eec3c298f3e95f4771d.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-d44cdf26ddecee0fa172.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-803ce18f323096188194.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appmero::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appmero-Debug-bacad82ebfe0c0d933b1.json",
+					"name" : "appmero",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appmero_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appmero_autogen-Debug-84bf710c42fcaf44f4c1.json",
+					"name" : "appmero_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appmero_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appmero_autogen_timestamp_deps-Debug-4612730e5174c5dd7ee1.json",
+					"name" : "appmero_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appmero_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appmero_qmlimportscan-Debug-e54931e69e9fdcfc6e4d.json",
+					"name" : "appmero_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appmero_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appmero_qmllint-Debug-6d4f16a4ec208d652adb.json",
+					"name" : "appmero_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appmero_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appmero_qmllint_json-Debug-51bc59ef8650eeb4ab3a.json",
+					"name" : "appmero_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appmero_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appmero_qmllint_module-Debug-198e8c03899f3f738d5a.json",
+					"name" : "appmero_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appmero_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appmero_qmltyperegistration-Debug-40aaed2400aa8630ca7a.json",
+					"name" : "appmero_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appmero_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appmero_tooling-Debug-75b425ed4c51aa5b6ee1.json",
+					"name" : "appmero_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/omar/mero/build/Desktop_Qt_6_5_3_GCC_64bit-Debug",
+		"source" : "/home/omar/mero"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,5 @@
+module mero
+typeinfo appmero.qmltypes
+prefer :/qt/qml/mero/
+Main 1.0 Main.qml
+

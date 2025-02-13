@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/mero/">
+    <file alias="Main.qml">/home/omar/mero/Main.qml</file>
+  </qresource>
+</RCC>
+

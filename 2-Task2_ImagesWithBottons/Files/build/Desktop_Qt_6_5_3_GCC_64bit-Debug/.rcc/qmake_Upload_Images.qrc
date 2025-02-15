@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Upload_Images">
+    <file alias="qmldir">/home/omar/Qt_Tasks/Upload_Images/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/Upload_Images/qmldir</file>
+  </qresource>
+</RCC>
+

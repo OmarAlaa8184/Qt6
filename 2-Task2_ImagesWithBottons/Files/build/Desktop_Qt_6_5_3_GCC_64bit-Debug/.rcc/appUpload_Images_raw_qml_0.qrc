@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/Upload_Images/">
+    <file alias="Main.qml">/home/omar/Qt_Tasks/Upload_Images/Main.qml</file>
+    <file alias="resources.qrc">/home/omar/Qt_Tasks/Upload_Images/resources.qrc</file>
+  </qresource>
+</RCC>
+

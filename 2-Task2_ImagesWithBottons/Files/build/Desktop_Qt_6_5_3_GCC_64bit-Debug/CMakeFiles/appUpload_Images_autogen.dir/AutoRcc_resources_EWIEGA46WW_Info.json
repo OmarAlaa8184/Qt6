@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/home/omar/Qt_Tasks/Upload_Images/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/appUpload_Images_autogen",
+	"CMAKE_BINARY_DIR" : "/home/omar/Qt_Tasks/Upload_Images/build/Desktop_Qt_6_5_3_GCC_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/omar/Qt_Tasks/Upload_Images/build/Desktop_Qt_6_5_3_GCC_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/omar/Qt_Tasks/Upload_Images",
+	"CMAKE_SOURCE_DIR" : "/home/omar/Qt_Tasks/Upload_Images",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/omar/Qt_Tasks/Upload_Images/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/appUpload_Images_autogen/include",
+	"INPUTS" : [ "/home/omar/Qt_Tasks/Upload_Images/images/Car4.jpg" ],
+	"LOCK_FILE" : "/home/omar/Qt_Tasks/Upload_Images/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/appUpload_Images_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/media/omar/504E30A14E3081B0/QT/6.5.3/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/omar/Qt_Tasks/Upload_Images/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/appUpload_Images_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/omar/Qt_Tasks/Upload_Images/resources.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

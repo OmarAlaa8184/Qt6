@@ -1,0 +1,14 @@
+-rootPath
+/home/omar/Qt_Tasks/Upload_Images
+-cmake-output
+-output-file
+/home/omar/Qt_Tasks/Upload_Images/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appUpload_Images.cmake
+-importPath
+/home/omar/Qt_Tasks/Upload_Images/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/Upload_Images
+-importPath
+/home/omar/Qt_Tasks/Upload_Images/build/Desktop_Qt_6_5_3_GCC_64bit-Debug
+-importPath
+/media/omar/504E30A14E3081B0/QT/6.5.3/gcc_64/./qml
+-qrcFiles
+/home/omar/Qt_Tasks/Upload_Images/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.rcc/qmake_Upload_Images.qrc
+/home/omar/Qt_Tasks/Upload_Images/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.rcc/appUpload_Images_raw_qml_0.qrc

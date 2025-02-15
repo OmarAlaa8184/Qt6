@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8ddd27ca7a2e1ca48889.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Upload_Images",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-b719f2476e17fab6de1b.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-beefff7bbc1aff60cab5.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-55a8a5dfc7a96d99ebda.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-cec179599466c4b02c85.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appUpload_Images::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appUpload_Images-Debug-8af343cec8b193e11ce3.json",
+					"name" : "appUpload_Images",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appUpload_Images_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appUpload_Images_autogen-Debug-db90013c70b90a47c80f.json",
+					"name" : "appUpload_Images_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appUpload_Images_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appUpload_Images_autogen_timestamp_deps-Debug-027e29a31bd6ef443274.json",
+					"name" : "appUpload_Images_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appUpload_Images_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appUpload_Images_qmlimportscan-Debug-9ba615faf8a57e04cf09.json",
+					"name" : "appUpload_Images_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appUpload_Images_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appUpload_Images_qmllint-Debug-53607fc17e5b5a17600b.json",
+					"name" : "appUpload_Images_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appUpload_Images_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appUpload_Images_qmllint_json-Debug-05335844f3049f25e44c.json",
+					"name" : "appUpload_Images_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appUpload_Images_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appUpload_Images_qmllint_module-Debug-d1a4bc89e724ca997676.json",
+					"name" : "appUpload_Images_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appUpload_Images_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appUpload_Images_qmltyperegistration-Debug-51c21f113d25d8b72da8.json",
+					"name" : "appUpload_Images_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appUpload_Images_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appUpload_Images_tooling-Debug-0d234213346dbdd327f9.json",
+					"name" : "appUpload_Images_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/omar/Qt_Tasks/Upload_Images/build/Desktop_Qt_6_5_3_GCC_64bit-Debug",
+		"source" : "/home/omar/Qt_Tasks/Upload_Images"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

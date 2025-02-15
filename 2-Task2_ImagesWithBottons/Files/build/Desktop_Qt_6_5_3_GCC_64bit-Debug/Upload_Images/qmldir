@@ -1,0 +1,5 @@
+module Upload_Images
+typeinfo appUpload_Images.qmltypes
+prefer :/qt/qml/Upload_Images/
+Main 1.0 Main.qml
+
